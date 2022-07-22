@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hi, I'm Kenzo :wave:
 
 <p align="left">
   <a href="https://github.com/Kenzo-Wada/Kenzo-Wada/">
