@@ -1,3 +1,5 @@
+# Hey there :wave:
+
 <p align="left">
   <a href="https://github.com/Kenzo-Wada/Kenzo-Wada/">
     <img src="https://komarev.com/ghpvc/?username=Kenzo-Wada" alt="Kenzo-Wada" />
