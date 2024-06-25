@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Kenzo-Wada&color=green)
 # Hi! I'm Kenzo!
 [![](https://raw.githubusercontent.com/Kenzo-Wada/Kenzo-Wada/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kenzo-Wada/Kenzo-Wada/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kenzo-Wada/Kenzo-Wada/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
