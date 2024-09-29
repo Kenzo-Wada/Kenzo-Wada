@@ -2,6 +2,5 @@
 # Hi! I'm Kenzo ✌
 
 <p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="/github-metrics.svg" width="75%"/>
+  <img src="/github-metrics.svg" width="100%"/>
 </p>
